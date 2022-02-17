@@ -1,3 +1,9 @@
+"""
+mabyul / 2022-02-16
+https://github.com/umjiwan/ReadStock.git
+"""
+
+
 import requests
 from bs4 import BeautifulSoup
 
